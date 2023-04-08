@@ -1,0 +1,8 @@
+package exception_handling;
+
+public class Program3 {
+	public static void main(String[] args) {
+		
+	}
+
+}
